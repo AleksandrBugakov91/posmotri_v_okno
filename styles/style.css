@@ -127,6 +127,7 @@ ol {
   font-weight: 400;
   line-height: normal;
   font-style: normal;
+  padding-left: 2px;
 }
 
 .title {
@@ -321,4 +322,3 @@ ol {
 .content__card-link:focus-visible {
   outline: 1px solid #fff;
 }
-
